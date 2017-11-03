@@ -8,9 +8,9 @@ categories: jekyll
 tag: 技术
 ---
 
-# Linux 常用操作命令
+# [Linux 常用操作命令]
 
-## 文件操作相关
+## [文件操作相关]
 
 * 创建文件
 >sudo touch 文件名
