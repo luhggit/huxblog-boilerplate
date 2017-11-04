@@ -24,3 +24,8 @@ git diff --cached
 git status
 ```
 查看暂存区的状态，即哪些文件做了修改，哪些文件修改了没有add,哪些文件是新添加的（未被跟踪）
+
+```
+git remote -v
+```
+查看**当前repository**下远程主机的信息，**不同的的repository有不同的remote**
