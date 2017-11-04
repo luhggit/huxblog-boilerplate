@@ -29,3 +29,8 @@ git status
 git remote -v
 ```
 查看**当前repository**下远程主机的信息，**不同的的repository有不同的remote**
+
+```
+git remote set-url origin git@github.com:luhggit/luhgblog.git
+```
+修改**当前repository**下远程主机origin的地址
