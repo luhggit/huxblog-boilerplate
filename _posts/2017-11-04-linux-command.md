@@ -65,3 +65,8 @@ adm:x:4:syslog,luhg
 ```
 chown -R luhg /opt/luhg-blog/
 ```
+
+### 显示隐藏的文件(以`.`开头)
+```
+ll -a
+```
